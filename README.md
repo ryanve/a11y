@@ -20,5 +20,8 @@
 - [NoCoffee vision simulator](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
 - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 
+## Slides
+- [CSUN 2017 SVG Accessibility](http://ljwatson.github.io/decks/2017/csun/)
+
 ## Threads
-[`aria-label` practical usage](https://twitter.com/stevefaulkner/status/850708007025614848)
+- [`aria-label` practical usage](https://twitter.com/stevefaulkner/status/850708007025614848)
