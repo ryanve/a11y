@@ -15,7 +15,7 @@
 - <b>[clrs.cc/#a11y](http://clrs.cc/#a11y)</b> from [mrmrs/colors](https://github.com/mrmrs/colors)
 
 ## Slides
-- [CSUN 2017 SVG Accessibility](http://ljwatson.github.io/decks/2017/csun/)
+- [SVG Accessibility](http://ljwatson.github.io/decks/2017/csun/)
 
 ## Posts
 - [verythorough.com/a11y](https://verythorough.com/a11y)
