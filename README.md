@@ -23,7 +23,7 @@
 ## Twitter
 - [#gaad](https://twitter.com/search?q=%23gaad)
 - [#a11y](https://twitter.com/search?q=%23a11y)
-- [`aria-label` usage](https://twitter.com/stevefaulkner/status/850708007025614848)
+- [`aria-label`](https://twitter.com/stevefaulkner/status/850708007025614848)
 
 ## Chrome extensions
 
