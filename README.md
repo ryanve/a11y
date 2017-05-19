@@ -14,14 +14,17 @@
 - <b>[contrast-ratio](http://leaverou.github.io/contrast-ratio/)</b> from [leaverou/contrast-ratio](https://github.com/leaverou/contrast-ratio)
 - <b>[clrs.cc/#a11y](http://clrs.cc/#a11y)</b> from [mrmrs/colors](https://github.com/mrmrs/colors)
 
+## Slides
+- [CSUN 2017 SVG Accessibility](http://ljwatson.github.io/decks/2017/csun/)
+
+## Posts
+- [verythorough.com/a11y](https://verythorough.com/a11y)
+
+## Threads
+- [`aria-label` usage](https://twitter.com/stevefaulkner/status/850708007025614848)
+
 ## Chrome extensions
 
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 - [NoCoffee vision simulator](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
 - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
-
-## Slides
-- [CSUN 2017 SVG Accessibility](http://ljwatson.github.io/decks/2017/csun/)
-
-## Threads
-- [`aria-label` practical usage](https://twitter.com/stevefaulkner/status/850708007025614848)
