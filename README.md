@@ -25,6 +25,6 @@
 
 ## Chrome extensions
 
-- [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-- [NoCoffee vision simulator](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
+- [<b>Lighthouse</b>](https://developers.google.com/web/tools/lighthouse/)
+- [<b>NoCoffee</b> vision simulator](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
 - [Accessibility DevTools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
