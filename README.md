@@ -20,7 +20,9 @@
 ## Posts
 - [verythorough.com/a11y](https://verythorough.com/a11y)
 
-## Threads
+## Twitter
+- [#gaad](https://twitter.com/search?q=%23gaad)
+- [#a11y](https://twitter.com/search?q=%23a11y)
 - [`aria-label` usage](https://twitter.com/stevefaulkner/status/850708007025614848)
 
 ## Chrome extensions
@@ -28,3 +30,6 @@
 - [<b>Lighthouse</b>](https://developers.google.com/web/tools/lighthouse/)
 - [<b>NoCoffee</b> vision simulator](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
 - [Accessibility DevTools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
+
+## Orgs
+- [GAAD](http://globalaccessibilityawarenessday.org)
