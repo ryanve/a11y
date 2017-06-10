@@ -10,9 +10,11 @@
 
 ## Accessible colors
 
-- <b>[colorable](http://jxnblk.com/colorable/demos/text/])</b> from [jxnblk/colorable](https://github.com/jxnblk/colorable)
+- [WCAG contrast standards](https://www.w3.org/TR/WCAG/#visual-audio-contrast)
 - <b>[contrast-ratio](http://leaverou.github.io/contrast-ratio/)</b> from [leaverou/contrast-ratio](https://github.com/leaverou/contrast-ratio)
+- <b>[colorable](http://jxnblk.com/colorable/demos/text/])</b> from [jxnblk/colorable](https://github.com/jxnblk/colorable)
 - <b>[clrs.cc/#a11y](http://clrs.cc/#a11y)</b> from [mrmrs/colors](https://github.com/mrmrs/colors)
+
 
 ## Slides
 - [SVG Accessibility](http://ljwatson.github.io/decks/2017/csun/)
