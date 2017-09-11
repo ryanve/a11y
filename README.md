@@ -1,12 +1,12 @@
+## YouTube videos
+
+- [<b>a11y playlist</b>](https://www.youtube.com/playlist?list=PLroOO1r7qGeTGGBR38P5kaFsI2pJ1OK-X)
+
 ## Web standards
 - [WCAG](https://www.w3.org/TR/WCAG/)
 - [Using ARIA](https://w3c.github.io/using-aria/)
 - [ARIA roles](https://www.w3.org/TR/wai-aria/roles#roles_categorization_header)
 - [ARIA in HTML](https://www.w3.org/TR/html-aria/)
-
-## YouTube videos
-
-- [<b>a11y playlist</b>](https://www.youtube.com/playlist?list=PLroOO1r7qGeTGGBR38P5kaFsI2pJ1OK-X)
 
 ## Accessible colors
 
