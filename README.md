@@ -21,7 +21,6 @@
 
 ## Posts
 - [BBC: accessibility thinking](http://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility)
-- [verythorough.com/a11y](https://verythorough.com/a11y)
 
 ## Twitter
 - [#gaad](https://twitter.com/search?q=%23gaad)
