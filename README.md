@@ -20,6 +20,7 @@
 - [SVG Accessibility](http://ljwatson.github.io/decks/2017/csun/)
 
 ## Posts
+- [Designing Safer Web Animation For Motion Sensitivity](https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity)
 - [BBC: accessibility thinking](http://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility)
 
 ## Twitter
