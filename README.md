@@ -22,6 +22,7 @@
 ## Posts
 - [Designing Safer Web Animation For Motion Sensitivity](https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity)
 - [BBC: accessibility thinking](http://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility)
+- [6 ways your tech is making it harder on people with disabilities](https://technical.ly/philly/2018/04/13/digital-accessibility-basics-people-with-disabilities/)
 
 ## Twitter
 - [#gaad](https://twitter.com/search?q=%23gaad)
